@@ -28,6 +28,7 @@ professional experience.
 | Project | Description | Tools |
 |---|---|---|
 |[Windows Log Monitor](https://github.com/mahitha-m-das/it-portfolio/tree/main/log-monitor) | Automated Windows Event Log analysis — detects critical errors and generates incident summary reports | Python, PowerShell |
+| [Disk Space Monitor](https://github.com/mahitha-m-das/it-portfolio/tree/main/disk-space-monitor) | Automated disk usage scanner with severity classification, ASCII progress bars, persistent history logging, and P1/P2 alert generation | Python, PowerShell |
 | More coming soon... | | |
 
 ---
