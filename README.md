@@ -27,7 +27,7 @@ professional experience.
 
 | Project | Description | Tools |
 |---|---|---|
-| | [Windows Log Monitor](https://github.com/mahitha-m-das/it-portfolio/tree/main/log-monitor) | Automated Windows Event Log analysis — detects critical errors and generates incident summary reports | Python, PowerShell |
+|[Windows Log Monitor](https://github.com/mahitha-m-das/it-portfolio/tree/main/log-monitor) | Automated Windows Event Log analysis — detects critical errors and generates incident summary reports | Python, PowerShell |
 | More coming soon... | | |
 
 ---
