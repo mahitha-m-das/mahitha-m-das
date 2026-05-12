@@ -29,6 +29,7 @@ professional experience.
 |---|---|---|
 |[Windows Log Monitor](https://github.com/mahitha-m-das/it-portfolio/tree/main/log-monitor) | Automated Windows Event Log analysis — detects critical errors and generates incident summary reports | Python, PowerShell |
 | [Disk Space Monitor](https://github.com/mahitha-m-das/it-portfolio/tree/main/disk-space-monitor) | Automated disk usage scanner with severity classification, ASCII progress bars, persistent history logging, and P1/P2 alert generation | Python, PowerShell |
+[Incident Auto-Classifier](https://github.com/mahitha-m-das/it-portfolio/tree/main/incident-classifier) | Keyword-based IT incident triage engine -- automatically classifies tickets by ITIL severity (P1/P2/P3/P4), assigns SLA targets, routes to correct support team, and exports prioritized CSV and text reports | Python, pandas |
 | More coming soon... | | |
 
 ---
